@@ -1,1 +1,1 @@
-# SwatchBin-SpeakerModule
+# SwachBin-SpeakerModule
