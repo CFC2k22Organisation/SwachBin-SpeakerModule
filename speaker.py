@@ -1,4 +1,4 @@
-#Code written for IBM Call for code 2K22 (SwachBin)
+# SwachBin - Speaker Module
 from playsound import playsound
 from ibm_watson import TextToSpeechV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
