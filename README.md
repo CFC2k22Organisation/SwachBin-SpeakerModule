@@ -1,6 +1,6 @@
 # SwachBin-SpeakerModule
 
-![Logo](./images/Ultrasonic-Sensor.jpg)
+![Logo](./images/speaker.jpg)
 
 Instructions:
 1.	Ensure the VNC option in your raspberrypi is turned ON.
