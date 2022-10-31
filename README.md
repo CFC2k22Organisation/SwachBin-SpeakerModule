@@ -1,6 +1,5 @@
 # SwachBin-SpeakerModule
 
-![Logo](./images/speaker.jpg)
 
 Instructions:
 1.	Ensure the VNC option in your raspberrypi is turned ON.
